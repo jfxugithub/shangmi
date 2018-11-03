@@ -1,2 +1,2 @@
 # shangmi
-this is shangmi project
+# shangmiteam
